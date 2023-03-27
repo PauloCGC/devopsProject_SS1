@@ -42,3 +42,7 @@ terraform.rc
 
 # Mac Os Files
 *.DS_Store
+
+# Python Virtual Envirnonmet
+**/.env/*
+*.env
