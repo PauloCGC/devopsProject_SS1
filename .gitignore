@@ -44,5 +44,5 @@ terraform.rc
 *.DS_Store
 
 # Python Virtual Envirnonmet
-**/.env/*
-*.env
+**/.venv/*
+*.venv
