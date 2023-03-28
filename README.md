@@ -30,13 +30,12 @@ First SoftServe DevOps Project
 
 
 # Instalamos la libreria Flask
-- pip list -> revisamos que paquetes tenemos instalados
 - pip install Flask 
 
 
-# instalamos mySQL
-- brew install mysql -> con la ayuda de brew en MAc
+# instalamos mySQL for Flask use
+- pip install Flask-MySQLdb
 
 # revisamos los paquetes instalados
-- pip List (figura 4)
+- pip list (figura 4) -> revisamos que paquetes tenemos instalados
 
