@@ -14,9 +14,13 @@ First SoftServe DevOps Project
 - revisar la version de python con los siguientes pasos
 1. pip3 -V  -> nos dirá la version de python instalada
 
+
+# instalar virtualenv
+1.  pip3 install virtualenv
+
 # crear un entorno virtual
 -  crear un entorno virtual en el folder donde correremos la aplicación
-1.  pip3 install virtualenv
+1. python3 -m virtualenv nombre_de_tu_entorno
 
 # activar el entorno virtual
 - source nombre_entorno_virtual/bin/activate -> para mac
